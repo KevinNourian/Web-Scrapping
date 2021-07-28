@@ -14,5 +14,5 @@ http://quotes.toscrape.com/
 Beautiful Soup
 
 ## Execution
-Run WebScrapping.py
+Run `WebScrapping.py`
 
